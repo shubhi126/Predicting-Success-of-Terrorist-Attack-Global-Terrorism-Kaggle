@@ -1,4 +1,5 @@
 # Predicting-if-Terrorist-Attack-will-be-Successful-or-Not---using-Global-Terrorism-Database-GTD
+Please download the full data set from Kaggle - Global terrorism databse, I have uploaded a short version of data set here.
 My fictitious firm, GDSMC Global, is a security consultancy focusing on supporting governments around the world in understanding, predicting, and stopping terrorism attacks. Our goal is to allow individual nation states to better deploy security resources to reduce the likelihood of successful terrorism in the future, and to understand what are the likely coming costs of terrorism so that resources can be set aside, in advance, to rebuild after inevitable and unfortunate attack.Although governments can submit their own internal security data to us for study, our models are constructed using the Global Terrorism Database (GTD) maintained by the National Consortium for the Study of Terrorism and Responses to Terrorism at the University of Maryland ( http://start.umd.edu/gtd/ ).
 
 I specifically focused on data collected after 2012, when the GTD automated, standardized, and
